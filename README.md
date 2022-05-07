@@ -32,11 +32,11 @@ The data summary for each of the three city types below shows the following:
 	- Average Fare per Ride
 	- Average Fare per Driver
 
-*Link DataFrame PNG
+![alt text](https://github.com/zimmer3-iii/PyBer_Analysis/blob/main/analysis/ride_sharing_dataframe.png?raw=true)
 
 This chart shows the total fare by city type for the dates from 2019-01-01 to 2019-04-29.
 
-*Link Chart PNG
+![alt text](https://github.com/zimmer3-iii/PyBer_Analysis/blob/main/analysis/TotalFare.png?raw=true)
 
 
 
