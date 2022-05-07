@@ -26,11 +26,11 @@ Deliverables requested and provided are listed here:
 	
 ## Results
 The data summary for each of the three city types below shows the following:
-	- Total Rides
-	- Total Drivers
-	- Total Fares
-	- Average Fare per Ride
-	- Average Fare per Driver
+- Total Rides
+- Total Drivers
+- Total Fares
+- Average Fare per Ride
+- Average Fare per Driver
 
 ![alt text](https://github.com/zimmer3-iii/PyBer_Analysis/blob/main/analysis/ride_sharing_dataframe.png?raw=true)
 
